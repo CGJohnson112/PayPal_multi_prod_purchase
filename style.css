@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #1d0703;
+  position: relative;
+  top: 50px;
+}
+
+body {
+  background-color: #3a0f05;
+  color: #ea3b16;
+}
+
+footer {
+  background-color: #af2c10;
+}
+
+.card {
+  background-color: #ea3b16;
+  color: #1d0703;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

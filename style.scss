@@ -1,0 +1,54 @@
+
+//complement
+$comp-1: #ea3b16;
+$comp-2: #16c5ea;
+
+//shades
+$color-1: #ea3b16;
+$color-2: #cd3413;
+$color-3: #af2c10;
+$color-4: #92250e;
+$color-5: #751d0b;
+$color-6: #581608;
+$color-7: #3a0f05;
+$color-8: #1d0703;
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.container {
+    background-color: $color-8;
+    position: relative;
+    top: 50px;
+    
+  
+}
+
+body {
+    background-color: $color-7;
+    color: $color-1;
+}
+
+footer {
+    background-color: $color-3;
+}
+
+.card {
+    background-color: $comp-1;
+    color: $color-8;
+    
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
